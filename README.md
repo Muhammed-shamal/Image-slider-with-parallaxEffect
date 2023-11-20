@@ -1,3 +1,40 @@
+# introduction:-
+
+## Buld an Image Slider with Parallax Effect using React js + swiper js
+
+A responsive image slider built with React.js, featuring a captivating parallax effect for a visually engaging user experience.
+
+## Features
+
+- **Image Slider**: Easily navigate through a collection of images.
+- **Parallax Effect**: Smooth and subtle parallax transitions for a visually appealing design.
+- **Responsive Design**: Ensures a seamless experience across various devices and screen sizes.
+
+## Technologies Used
+
+- [React.js](https://reactjs.org/)
+- [Swiper.js](https://swiperjs.com/): Modern touch slider with hardware-accelerated transitions.
+- [React Spring](https://react-spring.io/): A spring-physics based animation library for React applications.
+- Bootstrap
+- Css
+
+## Demo
+
+Include a link to a live demo or a preview of your application.
+
+## Installation
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/your-username/your-repo.git
+
+cd your-repo (your project)
+npm install
+
+## npm start
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
