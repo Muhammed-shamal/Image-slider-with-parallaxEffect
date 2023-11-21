@@ -1,6 +1,7 @@
 # introduction:-
 
 ## Buld an Image Slider with Parallax Effect using React js + swiper js
+![React App and 13 more pages - Personal - Microsoft​ Edge 11_21_2023 10_52_24 AM](https://github.com/Muhammed-shamal/Image-slider-with-parallaxEffect/assets/108850156/46b598bd-9625-49ee-8ec8-3ccb9b067935)
 
 A responsive image slider built with React.js, featuring a captivating parallax effect for a visually engaging user experience.
 
@@ -18,9 +19,14 @@ A responsive image slider built with React.js, featuring a captivating parallax 
 - Bootstrap
 - Css
 
+
+https://github.com/Muhammed-shamal/Image-slider-with-parallaxEffect/assets/108850156/bca462a2-34c0-4e2d-9429-3b4f5b045757
+
+
 ## Demo
 
 Include a link to a live demo or a preview of your application.
+** Live Demo:**[Netflix Clone](https://655c39cb4ac8fd380b1600f3--spontaneous-kangaroo-9b0b42.netlify.app/)
 
 ## Installation
 
